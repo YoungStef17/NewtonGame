@@ -62,8 +62,8 @@ You need **Java 8 or later** installed.
 The game reads its font and high scores from relative paths, so it must be launched **from the repository's root folder**:
 
 ```bash
-git clone https://github.com/YoungStef17/Newton-StefanoMichelini-MicheleColetti.git
-cd Newton-StefanoMichelini-MicheleColetti
+git clone https://github.com/YoungStef17/NewtonGame.git
+cd NewtonGame
 java -jar dist/Newton.jar
 ```
 
